@@ -12,7 +12,7 @@
 #     for x in mylist:
 #         print(f"通过for循环输出{x}")
 # list_for_fun()
-
+#
 # 练习题
 # mylist = [1,2,3,4,5,6,7,8,9,10]
 #
@@ -38,8 +38,8 @@
 #             new_list.append(x)
 #     print(new_list)
 # slect_for()
-
-
-
-
-
+#
+#
+#
+#
+#
